@@ -1,3 +1,21 @@
+# 使用补充
+
+1.src/index.js中的引用
+
+```javascript
+import SQLiteHelper from 'react-native-sqlite-helper';
+
+```
+
+2.删除 example 中的 lock 文件，yarn 安装 module
+
+3 安装 `react-native-sqlite-helper`
+
+```javascript
+yarn add react-native-sqlite-helper
+
+```
+
 # react-native-sqlite-helper
 
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu) [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE) [![stable](http://badges.github.io/stability-badges/dist/stable.svg)](http://github.com/badges/stability-badges)
